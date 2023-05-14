@@ -1,0 +1,21 @@
+body {
+    background-color: darkblue;
+  }
+  
+  .center {
+    display: flex;
+    justify-content: center;
+    padding-top: 100px;
+  }
+  
+  h1 {
+    color: rgb(194, 156, 19);
+    padding-right: 100px;
+  }
+  
+  button {
+    border-radius: 15%;
+    background-color: rgb(194, 156, 19);
+    color: black;
+    padding: 10px;
+  }

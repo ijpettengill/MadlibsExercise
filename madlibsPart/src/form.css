@@ -1,0 +1,14 @@
+label {
+    color:blue;
+}
+
+div {
+    padding-bottom: 10px;
+}
+
+button {
+    border-radius: 20%;
+    background-color: aqua;
+    color:black;
+    padding: 10px;
+}
